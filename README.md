@@ -6,6 +6,6 @@ Aqui encontro todos projetos criados focado no Desenvolvimento Web com as princi
 <br>
 Navegue nos links abaixo para dar uma visualizada melhor nos projetos
 
-<h2>Foco HTML & Css</h2>
+<h2>Foco HTML & CSS</h2>
 <br>
 <a href="https://github.com/marcos-rts/site-Vulcan">Site para empresa ficticia</a>
