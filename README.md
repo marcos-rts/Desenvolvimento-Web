@@ -9,3 +9,6 @@ Navegue nos links abaixo para dar uma visualizada melhor nos projetos
 <h2>Foco HTML & CSS</h2>
 <br>
 <a href="https://github.com/marcos-rts/site-Vulcan">Site para empresa ficticia</a>
+<a href="https://github.com/marcos-rts/MODELO-SISTEMA-DE-CHAMADO">Modelo antigo de projeto de gerador de ticket</a>
+<a href="https://github.com/marcos-rts/Project_ecommerce_TCC">E-commercec (TCC)</a>
+
